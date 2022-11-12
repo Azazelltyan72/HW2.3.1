@@ -1,10 +1,10 @@
 import java.time.LocalDate;
 
 public class Human {
-    String name;
+    private String name;
     private String town;
     private int yearOfBirth;
-    String job;
+    private String job;
 
     public Human(String name, String town, int yearOfBirth, String job) {
         if (name == null) {

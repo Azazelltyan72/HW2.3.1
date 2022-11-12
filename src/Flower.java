@@ -52,7 +52,6 @@ public class Flower {
             this.lifeSpan = 3;
         }
     }
-
     @Override
     public String toString() {
         return "Flower{" +

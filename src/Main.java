@@ -31,8 +31,8 @@ public class Main {
         flowers[4] = gypsophila;
         flowers[5] = gypsophila;
         flowers[6] = gypsophila;
-
-        flowers[7] = chrysanthemum;
+        flowers[7] = gypsophila;
+        flowers[8] = chrysanthemum;
 
         calculate(flowers);
     }
